@@ -131,3 +131,4 @@ dmypy.json
 # other
 .data/
 *.url
+project.zip
